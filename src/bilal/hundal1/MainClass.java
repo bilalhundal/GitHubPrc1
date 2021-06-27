@@ -11,6 +11,7 @@ public class MainClass {
 		}else {
 			System.out.println("This is Not Bilal");
 		}
+		NewClass.displayNew();
 	}
 
 }
